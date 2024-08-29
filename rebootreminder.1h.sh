@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # <xbar.title>reboot reminder</xbar.title>
-# <xbar.version>v1.2</xbar.version>
+# <xbar.version>v1.2.1</xbar.version>
 # <xbar.author>Michael Kwun</xbar.author>
 # <xbar.author.github>lawtalker</xbar.author.github>
 # <xbar.desc>Days of uptime, in red after specified number of days.</xbar.desc>
 # <xbar.image>https://i.imgur.com/mFjf0oA.jpeg</xbar.image>
-# <xbar.abouturl>https://github.com/lawtalker/rebootreminder</xbar.abouturl>
+# <xbar.abouturl>https://lawtalker.github.io/rebootreminder/rebootreminder.jpg</xbar.abouturl>
 # <xbar.var>number(VAR_RED_DAY=7): Red starting on this day</xbar.var>
 # <xbar.var>number(VAR_GRAY_ZERO=190): Day 0 gray level</xbar.var>
 
